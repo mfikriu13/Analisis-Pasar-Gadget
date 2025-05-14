@@ -16,6 +16,7 @@ Video bertemakan "Rekomendasi HP" sering menjadi rujukan masyarakat sebelum memb
 
 ### Cakupan Proyek
 
+- Python 3.9.0
 - Scraping data komentar youtube Gadget.in
 - Membersihkan data
 - Memberi label pada data
